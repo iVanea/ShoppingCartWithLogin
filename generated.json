@@ -1,0 +1,29 @@
+  {
+    "phones": {
+      "samsung": {
+        "price": 599,
+        "img": "https://cdn.shopify.com/s/files/1/2237/5863/products/Screenshot_2018-04-14_19.55.35_300x300.png?v=1523761765",
+        "title": "Samsung S9"
+      },
+      "apple": {
+        "price": 699,
+        "img": "https://www.themobileshop.ca/images/default-source/default-album/i-phone-x.png?sfvrsn=913d8399_0",
+        "title": "iPhone X"
+      },
+      "lg": {
+        "price": 699,
+        "img": "https://www.themobileshop.ca/images/default-source/default-album/lg-g7_en_gray_web30da05802f4440f89bee1c5f279a7ebd.jpg?sfvrsn=cc991e0c_0",
+        "title": "G7 ThinQ"
+      },
+      "huawei": {
+        "price": 699,
+        "img": "https://www.themobileshop.ca/images/default-source/default-album/huawei-p20-black-front-(en).png?sfvrsn=790700e0_0",
+        "title": "P20 Plus"
+      },
+      "google": {
+        "price": 699,
+        "img": "https://www.themobileshop.ca/images/default-source/default-album/google-pixel-2-xl-black-front-endb84c1a82ee7479f98215d1b45475961.png?sfvrsn=e660db78_0",
+        "title": "Pixel 2XL"
+      }
+    }
+  }
