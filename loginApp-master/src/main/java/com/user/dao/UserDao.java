@@ -8,6 +8,7 @@ public class UserDao {
  private HashMap<String,User>  BD;
 
   {  BD = new HashMap<>();
+      BD.put("q1", new User("q1", "1"));
      BD.put("adm", new User("adm", "adm"));
      BD.put("user", new User("user", "user"));
     }

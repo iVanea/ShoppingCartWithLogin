@@ -35,8 +35,8 @@
 </head>
 <body>
    <form action="login" method="post" id="loginform" class="login">
-       <input type="text" name="username" value="${cookie.user.value}" placeholder="user"/> <br/>
-       <input type="password" name="password" placeholder="Password"/> <br/>
+       <input type="text" name="username" value="${cookie.user.value}" placeholder="user" value="adm"/> <br/>
+       <input type="password" name="password" placeholder="Password" value="adm"/> <br/>
        <input type="submit" value="Login" class="button"/> <br/>
        <label>Remember me <input type="checkbox"    <c:if test="${cookie.containsKey('user')}">checked </c:if>  name="remember" value="yes"/></label>
    </form>
